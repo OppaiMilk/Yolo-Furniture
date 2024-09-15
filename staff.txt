@@ -1,0 +1,13 @@
+Yoyo;yoyo@gmail.com;yoyo;0124740402;What is your pet's name?;popi;Administrator;Approved
+Voon Jin Hui;jh@gmail.com;1230;0124740402;What is your pet's name?;bobi;Officer;Approved
+Tan Zu Seng;zs@gmail.com;0123;0183137025;What is your favourite colour?;Blue;SalesPerson;Processing
+emily;emily;1108;0123230402;What is your favourite colour?;Orange;Officer;Approved
+Amanda;amanda@gmail.com;0913;0163230402;What is your favourite colour?;purple;SalesPerson;Approved
+Tan Zu Seng;zs@gmail.com;zs0912;0183137025;What is your favourite colour?;yellow;SalesPerson;Approved
+Seur Jia Yi;jiayi.seur@gmail.com;123456789;123456789;What is your nick name?;OppaiMilk;Administrator;Approved
+Sky;admin@gmail.com;admin;admin;What is your favourite colour?;admin;Administrator;Approved
+SalesPerson;sale;sale;sale;What is your favourite colour?;sale;SalesPerson;Approved
+Officer;officer;officer;officer;What is your favourite colour?;yellow;Officer;Approved
+Ivan;ivan@gmail.com;ivan;0124367891;What is your favourite colour?;red;Officer;Approved
+Raymond;raymond@gmail.com;raymond;raymond;What is your favourite colour?;red;SalesPerson;Approved
+s;s;s;s;What is your favourite colour?;s;Officer;Processing

@@ -1,0 +1,607 @@
+0@90420332@FREKVENS@Bar furniture@265@Bar table, in/outdoor, 51x51 cm@Nicholai Wiig Hansen@@99@51
+1@368814@NORDVIKEN@Bar furniture@995@Bar table, 140x80 cm@Francis Cayouette@@105@80
+2@9333523@NORDVIKEN / NORDVIKEN@Bar furniture@2095@Bar table and 4 bar stools@Francis Cayouette@@@
+3@80155205@STIG@Bar furniture@69@Bar stool with backrest, 74 cm@Henrik Preutz@50@100@60
+4@30180504@NORBERG@Bar furniture@225@Wall-mounted drop-leaf table, 74x60 cm@Marcus Arvonen@60@43@74
+5@10122647@INGOLF@Bar furniture@345@Bar stool with backrest, 63 cm@Carina Bengs@45@91@40
+6@70404875@FRANKLIN@Bar furniture@129@Bar stool with backrest, foldable, 63 cm@K Hagberg/M Hagberg@44@95@50
+7@60155602@DALFRED@Bar furniture@195@Bar stool, 63-74 cm@Sarah Fager@50@@50
+9@69304221@EKEDALEN / EKEDALEN@Bar furniture@2176@Bar table and 4 bar stools@Ehlén Johansson@@@
+12@397736@NORRARYD@Bar furniture@395@Bar stool with backrest, 74 cm@Nike Karlsson@47@103@46
+14@400550@EKEDALEN@Bar furniture@345@Bar stool with backrest, 75 cm@Ehlén Johansson@52@114@43
+15@29304826@TOMMARYD@Bar furniture@695@Table, 130x70/105 cm@Maja Ganszyniec@@105@70
+16@40426138@HENRIKSDAL@Bar furniture@395@Bar stool with backrest frame, 74 cm@Karl Malmvall@51@102@40
+17@50363649@KULLABERG@Bar furniture@140@Stool@Sarah Fager@36@@36
+18@70246089@JANINGE@Bar furniture@595@Bar stool, 76 cm@John/Jonas/Petrus/Paul/Caroline@36@84@38
+21@30352246@RÅSKOG@Bar furniture@175@Bar stool, 63 cm@Nike Karlsson@44@63@44
+28@29297227@STENSELE / NORRARYD@Bar furniture@1340@Bar table and 2 bar stools@Nike Karlsson/Maja Ganszyniec@@@
+29@99323925@STENSELE@Bar furniture@550@Bar table, 70x70 cm@Maja Ganszyniec@@104@70
+30@40339004@NORRÅKER@Bar furniture@595@Bar table, 74x74 cm@J Karlsson/N Karlsson@@102@74
+32@19297275@NORRÅKER / NORRÅKER@Bar furniture@1266@Bar table and 2 bar stools, 74 cm@J Karlsson/N Karlsson@@@
+33@60400745@YNGVAR@Bar furniture@475@Bar stool, 75 cm@IKEA of Sweden@40@@40
+37@89280380@NORRÅKER / NORRARYD@Bar furniture@1385@Bar table and 2 bar stools, 74 cm@Nike Karlsson/J Karlsson/N Karlsson@@104@74
+40@272656@BERNHARD@Bar furniture@745@Bar stool with backrest, 66 cm@Ola Wihlborg@50@90@48
+44@30135658@GLENN@Bar furniture@445@Bar stool, 77 cm@Marcus Arvonen@52@100@50
+47@29123958@MINNEN@Beds@395@Ext bed frame with slatted bed base, 80x200 cm@IKEA of Sweden/Tina Christensen@@@85
+48@49278341@BRIMNES@Beds@895@Bed frame w storage and headboard, 90x200 cm@IKEA of Sweden/K Hagberg/M Hagberg@54@110@96
+49@50461230@SMÅGÖRA@Beds@595@Cot, 60x120 cm@IKEA of Sweden@@79@66
+50@89326463@PLATSA@Beds@2111@Bed frame with 4 drawers, 140x244x163 cm@Ola Wihlborg/IKEA of Sweden@40@43@140
+51@50468953@VATTVIKEN@Beds@995@Armchair-bed@504.689.53 Small and easy-to-place chair-bed which can easily be converted into a single bed.The storage space under the seat has room for bedlinen or other things.Just as nice to look at from all sides – perfect to place in the middle of the room or use as a room divider.The cushion cover is easy to keep clean and fresh, as you can take it off and machine-wash it.Easy to assemble.1 cushion included.@83@86@92
+52@69326609@SLÄKT@Beds@540@Ext bed frame with slatted bed base, 80x200 cm@IKEA of Sweden/Ebba Strandmark@@@91
+54@40395245@NEIDEN@Beds@99@Bed frame, 90x200 cm@Jon Karlsson@@@94
+55@69277307@LEIRVIK@Beds@1195@Bed frame, 180x200 cm@IKEA of Sweden/Carina Bengs@@@188
+57@89931560@HEMNES@Beds@675@Bed frame, 140x200 cm@IKEA of Sweden/Carina Bengs@@@154
+58@30446373@SLATTUM@Beds@595@Upholstered bed frame, 140x200 cm@David Wahl@@@144
+60@19254209@SAGSTUA@Beds@545@Bed frame, 140x200 cm@IKEA of Sweden/Paulin Machado@@140@148
+62@39019701@ASKVOLL@Beds@445@Bed frame, 140x200 cm@IKEA of Sweden/K Hagberg/M Hagberg@@@147
+63@69912770@TRYSIL@Beds@525@Bed frame, 160x200 cm@K Hagberg/M Hagberg/IKEA of Sweden@@@165
+64@29931596@MALM@Beds@495@Bed frame, high, 140x200 cm@IKEA of Sweden/Eva Lilja Löwenhielm@@@156
+65@29179554@RAMSTA@Beds@445@Day-bed frame with slatted bed base, 90x200 cm@IKEA of Sweden@@80@97
+66@9241043@SONGESAND@Beds@395@Bed frame, 140x200 cm@IKEA of Sweden@@@153
+68@19185433@SNIGLAR@Beds@195@Bed frame with slatted bed base, 70x160 cm@IKEA of Sweden@@@77
+69@39122072@LAUVIK@Beds@1729@Divan bed, 140x200 cm@IKEA of Sweden/Synnöve Mork/Ola Wihlborg@@120@140
+72@99157983@NESTTUN@Beds@595@Bed frame, 140x200 cm@IKEA of Sweden/David Wahl@@95@146
+73@69057522@TYSSEDAL@Beds@1395@Bed frame, 140x200 cm@Ebba Strandmark/IKEA of Sweden@@@147
+77@90331091@RIDABU@Beds@100@Mirror door, 40x120 cm@903.310.91 The door can be hung with the opening to the right or the left.To be completed with 3 HJÄLPA hinges, sold separately.Fits with PLATSA wardrobe system.Knobs and handles are sold separately.@@120@40
+78@69185435@KRITTER@Beds@360@Bed frame with slatted bed base, 70x160 cm@IKEA of Sweden/Anna Efverlund@@@75
+82@80017389@SANDVIKA@Beds@295@Guest bed, 80x190 cm@IKEA of Sweden@@34@80
+86@90354327@HAMMARN@Beds@399@Sofa-bed, 120 cm@Jonas Hultqvist@85@78@128
+87@79247598@BJÖRKSNÄS@Beds@2040@Bed frame, 140x200 cm@K Hagberg/M Hagberg/IKEA of Sweden@@42@160
+89@9241420@NORDLI@Beds@2290@Bed frame w storage and headboard, 140x200 cm@Ola Wihlborg@51@16@240
+90@20424362@FYRESDAL@Beds@549@Day-bed frame, 80x200 cm@K Hagberg/M Hagberg@@94@88
+93@20467629@MYDAL@Beds@895@Bunk bed frame, 90x200 cm@IKEA of Sweden@@157@97
+94@239233@TUFFING@Beds@475@Bunk bed frame, 90x200 cm@IKEA of Sweden@@130@96
+95@29239459@SÄBÖVIK@Beds@1745@Divan bed, 140x200 cm@IKEA of Sweden@@90@140
+96@60116960@LYCKSELE@Beds@100@Storage box 2-seat sofa-bed@IKEA of Sweden@55@21@92
+97@89019992@TARVA@Beds@871@Bed frame, 140x200 cm@IKEA of Sweden/K Hagberg/M Hagberg@@@148
+100@70305700@BUSUNGE@Beds@795@Extendable bed, 80x200 cm@Carl Öjerstam@@@90
+101@40433902@MARKERAD@Beds@480@Day-bed frame, 80x200 cm@Virgil Abloh@@20@80
+102@79129986@GJÖRA@Beds@1640@Bed frame, 140x200 cm@Monika Mulder/IKEA of Sweden@@@154
+103@360484@UTÅKER@Beds@695@Stackable bed, 80x200 cm@Henrik Preutz@@2@83
+104@44361010@BRYNE@Beds@49@Net@443.610.10 Easy to keep clean since you can remove the fabric and wash it by machine.NEVER use for infants and young children.WARNING! Entanglement and strangulation hazard.The net is not intended to be used as protection against mosquitos or other insects.@@@
+105@80253809@KURA@Beds@745@Reversible bed, 90x200 cm@T Christensen/K Legaard@@116@99
+106@39216754@FRIHETEN@Beds@1846@Corner sofa-bed with storage@IKEA of Sweden@151@66@
+107@10448325@VITVAL@Beds@295@Underbed, 90x200 cm@Tord Björklund@@20@90
+108@30160209@LURÖY@Beds@100@Slatted bed base, 80x200 cm@IKEA of Sweden@@4@80
+114@99287550@DELAKTIG@Beds@2195@Bed frame with headboard, 160x200 cm@Tom Dixon/IKEA of Sweden@@99@164
+115@19268763@STUVA@Beds@1725@Loft bed combo w 2 shlvs/3 shlvs, 207x99x182 cm@IKEA of Sweden/Ebba Strandmark@@182@
+117@49303393@VIMLE@Beds@1400@Cover for corner sofa-bed, 4-seat@Ehlén Johansson@@@
+118@89186778@KONGSFJORD@Beds@8551@Divan bed, 180x200 cm@Ola Wihlborg/IKEA of Sweden/Synnöve Mork@@135@180
+119@9306416@NYHAMN@Beds@1470@Sofa-bed with triple cushion@IKEA of Sweden/L Hilland/Lisa Hilland@97@90@200
+122@70284203@ASKEBY@Beds@995@Two-seat sofa-bed@702.842.03 A sofa-bed with small, neat dimensions which is easy to furnish with, even when space is limited.Readily converts into a bed.Fixed cover.@72@72@149
+124@49046068@SUNDVIK@Beds@849@Ext bed frame with slatted bed base, 80x200 cm@IKEA of Sweden@@80@
+127@70362427@SOLGUL@Beds@395@Cradle with foam mattress, 66x84 cm@IKEA of Sweden@@53@66
+130@30099293@VIKARE@Beds@95@Guard rail@IKEA of Sweden@@7@
+133@39277498@VALLENTUNA@Beds@1848@Sofa-bed module with backrests@Fredriksson/L Löwenhielm/Hilland@93@84@113
+145@10247973@SVÄRTA@Beds@895@Bunk bed frame, 90x200 cm@Tord Björklund@@159@97
+147@19166180@LYCKSELE MURBO@Beds@1445@Two-seat sofa-bed@IKEA of Sweden@100@87@142
+151@102065@LYCKSELE LÖVÅS@Beds@495@Mattress, 140x188 cm@IKEA of Sweden@@@
+155@60299691@BRYNILEN@Beds@30@Leg, 10 cm@Ola Wihlborg@@@
+161@80332468@SUFFLETT@Beds@85@Bed tent, 70/80/90@IKEA of Sweden@@80@
+163@90338403@LÖVA@Beds@55@Bed canopy@A Huldén/S Dahlman@@@90
+165@20320128@FLEKKE@Beds@1495@Day-bed frame with 2 drawers, 80x200 cm@K Hagberg/M Hagberg@@86@88
+169@89275265@STUVA / FÖLJA@Beds@1915@Loft bed combo w 2 drawer/2 doors, 207x99x182 cm@IKEA of Sweden/Ebba Strandmark@@182@
+171@70340567@GRÄLVIKEN@Beds@1995@3-seat sofa-bed@IKEA of Sweden@86@74@225
+172@89240761@HOLMSUND@Beds@2295@Three-seat sofa-bed@K Hagberg/M Hagberg@99@96@230
+174@79253259@STUVA / FRITIDS@Beds@1990@Loft bed combo w 3 drawers/2 doors, 207x99x182 cm@Ebba Strandmark/IKEA of Sweden@@182@
+177@29278101@GRÖNLID@Beds@3595@2-seat sofa-bed@IKEA of Sweden/Francis Cayouette/Ehlén Johansson@98@104@196
+184@257953@GONATT@Beds@1095@Cot, 60x120 cm@J Asshoff/H Brogård@@103@66
+185@20299688@BRENNÅSEN@Beds@30@Leg, 10 cm@Ola Wihlborg@7@@7
+186@9217849@BRÅTHULT@Beds@1991@Corner sofa-bed@Lisa Hilland/David Wahl/IKEA of Sweden@78@69@212
+190@29277639@LIDHULT@Beds@9585@Corner sofa-bed, 6-seat@Henrik Preutz/IKEA of Sweden@164@102@387
+191@40299687@BURFJORD@Beds@40@Leg, 10 cm@Ola Wihlborg@55@@55
+197@10248519@GULLIVER@Beds@595@Cot, 60x120 cm@IKEA of Sweden@@80@66
+199@89300750@FLOTTEBO@Beds@2236@Sofa-bed with side table, 120 cm@C Halskov/H Dalsgaard@120@79@200
+203@45932080@SULTAN@Beds@50@Supporting leg@IKEA of Sweden@@@
+204@10309616@BÅTSFJORD@Beds@30@Leg, 10 cm@Ehlén Johansson@@@
+208@79217902@SANDBACKEN@Beds@1841@Corner sofa-bed@David Wahl/Lisa Hilland/IKEA of Sweden@@69@212
+217@60102067@LYCKSELE HÅVET@Beds@795@Mattress, 140x188 cm@IKEA of Sweden@@@
+222@70299695@BJORLI@Beds@40@Leg, 10 cm@Ola Wihlborg@@@
+228@80309613@BRATTVÅG@Beds@50@Leg, 10 cm@Ola Wihlborg@@@
+255@59297141@JONAXEL@Bookcases & shelving units@135@Frame with mesh baskets, 25x51x70 cm@IKEA of Sweden@51@70@25
+256@59201841@OLAUS@Bookcases & shelving units@290@1 shelf section, 92x36x181 cm@IKEA of Sweden@36@181@92
+258@450347@KOLBJÖRN@Bookcases & shelving units@345@Cabinet in/outdoor, 80x81 cm@IKEA of Sweden@35@81@80
+260@99303461@IVAR@Bookcases & shelving units@1385@Shelv unit w table/cabinets/drawers, 175x30-104x179 cm@IKEA of Sweden@@179@175
+261@70261131@GERSBY@Bookcases & shelving units@95@Bookcase, 60x180 cm@IKEA of Sweden@24@180@60
+262@20275814@KALLAX@Bookcases & shelving units@115@Shelving unit, 77x77 cm@Tord Björklund@39@77@77
+263@60282186@LACK@Bookcases & shelving units@199@Wall shelf unit, 30x190 cm@C Halskov/H Dalsgaard@28@190@30
+264@278578@HYLLIS@Bookcases & shelving units@59@Shelving unit, 60x27x140 cm@IKEA of Sweden@27@140@60
+269@40178591@LAIVA@Bookcases & shelving units@85@Bookcase, 62x165 cm@Jon Karlsson@24@165@62
+270@40322876@SVALNÄS@Bookcases & shelving units@270@Desk space with 2 drawers, 81x35 cm@Jon Karlsson@35@@81
+272@90305803@VITTSJÖ@Bookcases & shelving units@245@Shelving unit, 100x93 cm@Johan Kroon@36@93@100
+273@263850@BILLY@Bookcases & shelving units@185@Bookcase, 80x28x202 cm@Gillis Lundgren@28@202@80
+281@39031411@HEJNE@Bookcases & shelving units@165@1 section, 78x31x171 cm@IKEA of Sweden@31@171@78
+282@40415465@LOMMARP@Bookcases & shelving units@476@Bookcase, 65x199 cm@Francis Cayouette@34@199@65
+284@50339292@FJÄLLBO@Bookcases & shelving units@495@Shelving unit, 100x95 cm@Johan Kroon@36@95@100
+285@20312492@OBSERVATÖR@Bookcases & shelving units@15@Clip-on basket@Henrik Preutz@@18@30
+288@19189030@EKET@Bookcases & shelving units@656@Wall-mounted cabinet combination, 80x35x210 cm@IKEA of Sweden/Jon Karlsson@35@210@80
+292@40277143@GNEDBY@Bookcases & shelving units@125@Shelving unit, 202 cm@IKEA of Sweden@17@202@20
+293@50279066@LIATORP@Bookcases & shelving units@450@Panel/glass door, 44x198 cm@Carina Bengs@@198@44
+294@80295526@BESTÅ@Bookcases & shelving units@25@Shelf, 56x16 cm@IKEA of Sweden@16@@56
+298@69281804@BILLY / OXBERG@Bookcases & shelving units@915@Bookcase with glass-doors, 120x30x202 cm@Gillis Lundgren@30@202@120
+300@10261129@FINNBY@Bookcases & shelving units@149@Bookcase, 60x180 cm@IKEA of Sweden@24@180@60
+304@90344456@VILTO@Bookcases & shelving units@275@Shelving unit, 46x150 cm@Maja Ganszyniec@26@150@46
+321@70302283@BRUSALI@Bookcases & shelving units@237@Bookcase, 67x190 cm@IKEA of Sweden@33@190@67
+323@99286838@BESTÅ / EKET@Bookcases & shelving units@1719@Cabinet combination for TV, 210x40x220 cm@Jon Karlsson/IKEA of Sweden@40@220@210
+324@20417205@STUK@Bookcases & shelving units@35@Storage case, 55x51x18 cm@IKEA of Sweden@51@18@55
+331@90394470@BOTTNA@Bookcases & shelving units@15@Book-end@K Hagberg/M Hagberg@@15@13
+335@40218554@ALGOT@Bookcases & shelving units@15.6@Shelf, 40x38 cm@Francis Cayouette@38@@40
+337@60295706@MOSTORP@Bookcases & shelving units@417@Wall shelf, 160x27 cm@602.957.06 With a media shelf you can make the most of the wall area, while freeing up space on the floor.Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately.@27@27@160
+346@40347886@EDVALLA@Bookcases & shelving units@25@Drop handle, 18 mm@Francis Cayouette@11@@33
+358@99277122@BILLY / BOTTNA@Bookcases & shelving units@140@Bookcase with display shelf, 40x28x106 cm@K Hagberg/M Hagberg/Gillis Lundgren@28@106@40
+375@10279860@MORLIDEN@Bookcases & shelving units@200@Glass door, 40x192 cm@IKEA of Sweden@@192@40
+379@50343147@BROR@Bookcases & shelving units@15@Hook for post, 7x5x3 cm 2 pack@IKEA of Sweden@5@7@3
+387@49227605@ENETRI@Bookcases & shelving units@412@Shelving unit, 170x158 cm@Niels Gammelgaard@33@158@170
+389@80336433@GUBBARP@Bookcases & shelving units@3@Knob, 21 mm@H Preutz/A Fredriksson@27@@
+410@99020476@BILLY / GNEDBY@Bookcases & shelving units@940@Bookcase, 200x28x202 cm@IKEA of Sweden/Gillis Lundgren@28@202@200
+419@90323393@FIXA@Bookcases & shelving units@5.6@Drill template@903.233.93 Drill template for marking the hole location of knobs or handles makes it easier for you to place them correctly.The strip on the drill template is put against the edge of the door or drawer front; helps you to place the handle perfectly straight vertically or horizontally.@@@64
+433@50046152@HEDRA@Bookcases & shelving units@9@Knob, 32 mm@IKEA of Sweden@27@@
+436@338412@BAGGANÄS@Bookcases & shelving units@27@Knob, 21 mm@H Preutz/A Fredriksson@24@@21
+437@20348896@ÖSTERNÄS@Bookcases & shelving units@49@Leather handle, 65 mm@H Preutz/A Fredriksson@@@25
+442@90294989@SKUBB@Bookcases & shelving units@49@Storage case, 69x55x19 cm@IKEA of Sweden@55@19@69
+461@335885@SKÅDIS@Bookcases & shelving units@6@Connector for ALGOT@Eva Lilja Löwenhielm@2@4@5
+462@70391038@HAVSTA@Bookcases & shelving units@695@Shelving unit with plinth, 61x37x212 cm@IKEA of Sweden@37@212@61
+471@10293597@NANNARP@Bookcases & shelving units@40@Leg@Carl Öjerstam@100@100@100
+472@40347508@ENERYDA@Bookcases & shelving units@22@Knob, 27 mm@Francis Cayouette@@@
+476@69287373@BILLY / MORLIDEN@Bookcases & shelving units@315@Bookcase with glass door, 40x30x106 cm@IKEA of Sweden/Gillis Lundgren@30@106@40
+494@30269129@BESTÅ BURS@Bookcases & shelving units@1195@TV bench, 180x41x49 cm@Mikael Warnhammar@41@49@180
+497@60293566@STUBBARP@Bookcases & shelving units@35@Leg@IKEA of Sweden@44@100@44
+503@60334312@BILLSBRO@Bookcases & shelving units@35@Handle, 320 mm@H Preutz/A Fredriksson@@@
+507@296351@SELSVIKEN@Bookcases & shelving units@60@Drawer front, 60x26 cm@IKEA of Sweden@@26@60
+512@10443629@GLASSVIK@Bookcases & shelving units@175@Glass door, 60x38 cm@IKEA of Sweden@@38@60
+515@20365188@GALANT@Bookcases & shelving units@575@Shelf unit, 80x120 cm@K Malmvall/E Lilja Löwenhielm@45@120@80
+516@40364060@LAPPVIKEN@Bookcases & shelving units@38.5@Door, 60x64 cm@IKEA of Sweden@@64@60
+526@70443626@NOTVIKEN@Bookcases & shelving units@100@Door/drawer front, 60x38 cm@704.436.26 The front may be used as a door or as a drawer front.You can choose to mount the door on the right or left side.The doors keep your belongings hidden and free from dust.To be completed with BESTÅ hinges if used as door. Sold separately.To be completed with BESTÅ drawer frame 60x25x40 cm and BESTÅ drawer runner if used as drawer front. Sold separately.May be completed with knobs or handles. Sold separately.Drill template for marking of hole positions for handles or knobs is sold separately.@@38@60
+527@30323367@OXBERG@Bookcases & shelving units@200@Glass door, 40x192 cm@K Hagberg/M Hagberg@@192@40
+530@80322855@BERGHALLA@Bookcases & shelving units@22@Handle, 56 mm@H Preutz/A Fredriksson@32@@9
+538@40390766@SULARP@Bookcases & shelving units@45.5@Leg@Carl Öjerstam@38@10@
+579@70265247@MÖLLARP@Bookcases & shelving units@17@Handle, 106 mm@K Hagberg/M Hagberg@28@@9
+581@80339790@HACKÅS@Bookcases & shelving units@17@Knob, 15 mm@J Löfgren/J Pettersson@18@@24
+593@30236153@ORRNÄS@Bookcases & shelving units@17@Knob, 17 mm@IKEA of Sweden@30@@17
+598@10343328@VEBERÖD@Bookcases & shelving units@645@Shelving unit, 45x181 cm@Gustav Carlberg@45@181@45
+623@70370352@MOSSARYD@Bookcases & shelving units@29@Drop handle, 49 mm@Francis Cayouette@18@@
+629@90291698@LAXVIKEN@Bookcases & shelving units@175@Door, 60x64 cm@IKEA of Sweden@@64@60
+634@414255@VASSVIKEN@Bookcases & shelving units@150@Door, 60x64 cm@IKEA of Sweden@@@
+652@20273141@HISHULT@Bookcases & shelving units@17@Knob, 23 mm@K Hagberg/M Hagberg@24@@
+654@30373164@KLACKBERG@Bookcases & shelving units@35@Knob, 35 mm@Charlie Styrbjörn@30@@
+659@10373495@BEKANT@Bookcases & shelving units@1495@Shelving unit, 121x134 cm@Eva Lilja Löwenhielm@45@134@121
+672@70348894@BJÄRRED@Bookcases & shelving units@49@Handle, 175 mm@H Preutz/A Fredriksson@34@@
+679@20330599@UPPLEVA@Bookcases & shelving units@199@Bracket for TV, swivel, 37-55 "@203.305.99 The TV-bracket can be angled for change of viewing position, and easy access to cables and connections.The TV bracket has integrated cable management so you can easily gather and conceal wires for a neater TV solution.UPPLEVA TV-brackets are VESA-compatibleFits most 37-55" flat screen TVs.Fits MOSTORP, MALSJÖ and BESTÅ TV benches.@@@
+691@60294797@HANVIKEN@Bookcases & shelving units@50@Drawer front, 60x26 cm@Marcus Arvonen@@26@60
+697@50357002@KALLRÖR@Bookcases & shelving units@25@Handle, 213 mm@IKEA of Sweden@38@@
+703@90291858@SINDVIK@Bookcases & shelving units@150@Glass door, 60x64 cm@Marcus Arvonen@@64@60
+705@10364523@KALLVIKEN@Bookcases & shelving units@170@Door, 60x64 cm@IKEA of Sweden@@64@60
+720@10353765@KLIMPEN@Bookcases & shelving units@345@Table leg with storage, 58x70 cm@Tina Christensen@33@70@58
+722@20390574@STALLARP@Bookcases & shelving units@45@Leg@Carl Öjerstam@4@10@4
+733@60441562@TIMMERVIKEN@Bookcases & shelving units@60@Drawer front, 60x26 cm@604.415.62 Drawers make it easy to keep your things organised.To be completed with BESTÅ drawer frame 60X15X40 cm and BESTÅ drawer runner, sold separately.May be completed with knobs or handles. Sold separately.Drill template for marking of hole positions for handles or knobs is sold separately.@@26@60
+735@10441569@STOCKVIKEN@Bookcases & shelving units@210@Door, 60x64 cm@104.415.69 You can choose to mount the door on the right or left side.To be completed with BESTÅ hinges.1 door requires 1 pack of hinges. Sold separately.May be completed with knobs or handles. Sold separately.Drill template for marking of hole positions for handles or knobs is sold separately.@@64@60
+737@19276414@ALGOT / SKÅDIS@Bookcases & shelving units@598@Wall upright/shelves/rod, 132x41x199 cm@Francis Cayouette/Eva Lilja Löwenhielm@41@199@132
+756@70348785@SKÄRHAMN@Bookcases & shelving units@29@Knob, 22 mm@Ebba Strandmark@24@@
+772@70441566@RIKSVIKEN@Bookcases & shelving units@225@Door, 60x64 cm@704.415.66 You can choose to mount the door on the right or left side.To be completed with BESTÅ hinges.1 door requires 1 pack of hinges. Sold separately.May be completed with knobs or handles. Sold separately.Drill template for marking of hole positions for handles or knobs is sold separately.@@64@60
+791@69285473@ALGOT / BROR@Bookcases & shelving units@1311@Shelving unit with cabinet, 162x41x162 cm@Francis Cayouette/IKEA of Sweden@41@162@162
+812@10119206@DETOLF@Cabinets & cupboards@295@Glass-door cabinet, 43x163 cm@IKEA of Sweden@37@163@43
+815@30439565@SYVDE@Cabinets & cupboards@595@Cabinet with glass doors, 100x123 cm@IKEA of Sweden@48@123@100
+817@59248867@LIXHULT@Cabinets & cupboards@580@Storage combination, 140x82 cm@Jon Karlsson@35@60@140
+829@359739@ROTHULT@Cabinets & cupboards@95@Smart lock@IKEA of Sweden@@7@3
+841@396416@MILSBO@Cabinets & cupboards@995@Glass-door cabinet, 73x175 cm@Jonas Hultqvist@42@175@73
+846@10251451@IKEA PS@Cabinets & cupboards@425@Cabinet, 119x63 cm@Nicholai Wiig Hansen@40@63@119
+848@363171@FABRIKÖR@Cabinets & cupboards@636@Glass-door cabinet, 81x113 cm@Nike Karlsson@42@113@81
+851@60342072@REGISSÖR@Cabinets & cupboards@796@Cabinet, 118x110 cm@K Hagberg/M Hagberg@38@110@118
+860@90421911@BRYGGJA@Cabinets & cupboards@597@Storage unit, 120x173 cm@Ola Wihlborg@43@173@120
+865@70341005@ERIK@Cabinets & cupboards@595@File cabinet, 41x104 cm@IKEA of Sweden@50@104@41
+868@327772@MALSJÖ@Cabinets & cupboards@2100@Sideboard basic unit, 145x92 cm@Carina Bengs@48@92@145
+873@49249396@HÄLLAN@Cabinets & cupboards@875@Storage combination with doors, 45x47x167 cm@Jon Karlsson@47@167@45
+881@30360977@IDÅSEN@Cabinets & cupboards@995@High cabinet with drawer and doors, 45x172 cm@Jon Karlsson@47@172@45
+1105@19304209@LEIFARNE@Café furniture@275@Chair with armrests@Mia Lagerman@50@87@53
+1106@39297156@STENSELE / RÖNNINGE@Café furniture@1140@Table and 2 chairs@Maja Ganszyniec@@@
+1109@10422504@RÖNNINGE@Café furniture@345@Chair@Maja Ganszyniec@49@79@46
+1116@49259743@SVENBERTIL@Café furniture@275@Chair with armrests@Mia Lagerman@50@84@53
+1121@49011766@MELLTORP / ADDE@Chairs@179@Table and 2 chairs, 75 cm@Lisa Norinder/Marcus Arvonen@@72@75
+1122@10209202@MALINDA@Chairs@25@Chair cushion, 40/35x38x7 cm@IKEA of Sweden@38@@
+1123@40455649@BINGSTA@Chairs@595@Armchair@Elizabet Gutierrez@58@76@70
+1124@40472861@SKRUVSTA@Chairs@545@Swivel chair@404.728.61 Height adjustable armchair which you can swivel to the desired height.Slim lines, easy to place.You sit comfortably since the chair is adjustable in height.The safety castors have a pressure-sensitive brake mechanism that keeps the chair in place when you stand up, and releases automatically when you sit down.This product has been developed and tested for domestic use.@69@79@69
+1125@79331865@LOBERGET / BLYSKÄR@Chairs@155@Swivel chair@IKEA of Sweden/Carl Öjerstam@67@@67
+1126@20456956@STRANDMON@Chairs@995@Wing chair@IKEA of Sweden@96@101@82
+1127@20339420@RENBERGET@Chairs@175@Swivel chair@IKEA of Sweden@65@@59
+1128@79046260@SNILLE@Chairs@125@Swivel chair@IKEA of Sweden@67@@67
+1129@50078464@PELLO@Chairs@195@Armchair@IKEA of Sweden@85@96@67
+1130@90339412@MILLBERGET@Chairs@350@Swivel chair@Ola Wihlborg@65@@
+1131@9221016@FANBYN@Chairs@295@Chair with armrests@092.210.16 You sit comfortably thanks to the shaped back and armrests.Suitable for both indoor and outdoor use.@@@
+1132@29208194@FLINTAN / NOMINELL@Chairs@370@Office chair with armrests@Henrik Preutz/Olle Lundberg@69@@74
+1133@59297184@EKOLSUND@Chairs@1395@Recliner@Anna Palleschitz@94@97@85
+1134@50434312@NILSOVE@Chairs@395@Chair with armrests@A Fredriksson/J Hultqvist/W Chong@57@82@57
+1135@50058376@AGEN@Chairs@245@Chair@500.583.76 Rattan is a natural material which ages beautifully and develops its own unique character over time.Handwoven; each piece of furniture is unique.Stackable chair; saves space when not in use.Plastic feet; protect the furniture if in contact with a moist surface.May be completed with NORNA chair pad for enhanced seating comfort.@56@79@58
+1136@10219178@ADDE@Chairs@40@Chair@Marcus Arvonen@47@77@39
+1137@69023612@SKÅLBERG / SPORREN@Chairs@190@Swivel chair@IKEA of Sweden/Carl Öjerstam@71@@71
+1138@90184047@MARIUS@Chairs@25@Stool@Ola Wihlborg@@@40
+1139@20292776@MOLTE@Chairs@69@Desk chair@Lycke von Schantz@42@@40
+1140@60217799@GUNDE@Chairs@30@Folding chair@K Hagberg/M Hagberg@45@78@41
+1141@70441769@ÖRFJÄLL@Chairs@195@Children's desk chair@S Holmbäck/U Nordentoft@53@@53
+1142@10233532@NOLMYRA@Chairs@175@Easy chair@Jooyeon Lee@75@75@64
+1143@9252786@LÅNGFJÄLL@Chairs@695@Office chair with armrests@Eva Lilja Löwenhielm@68@@68
+1145@90320097@GRÖNADAL@Chairs@795@Rocking-chair@Lisa Hilland@81@86@80
+1147@50341025@KARLJAN@Chairs@125@Chair@Francis Cayouette@55@81@49
+1148@60308676@BLECKBERGET@Chairs@250@Swivel chair@Francis Cayouette@68@@68
+1149@60344759@REMSTA@Chairs@795@Armchair@IKEA of Sweden@72@88@60
+1150@39129342@STOCKSUND@Chairs@995@Bench@Nike Karlsson@49@47@144
+1152@20336836@FLINTAN@Chairs@245@Office chair@Henrik Preutz@69@@74
+1153@50039552@IKEA PS GULLHOLMEN@Chairs@295@Rocking-chair@Maria Vinka@68@75@62
+1154@70261150@MARKUS@Chairs@795@Office chair@Henrik Preutz@60@@62
+1155@60178887@BEKVÄM@Chairs@59@Step stool, 50 cm@Nike Karlsson@39@50@43
+1157@90435324@TOSSBERG@Chairs@495@Chair@IKEA of Sweden@56@82@60
+1158@50463502@SAKARIAS@Chairs@50@Stool cover@IKEA of Sweden@@@
+1159@60416925@KYRRE@Chairs@60@Stool@C Styrbjörn/M Axelsson@48@45@42
+1160@90350937@TEODORES@Chairs@95@Chair@David Wahl@54@80@46
+1161@79299016@BUSKBO@Chairs@675@Armchair@IKEA of Sweden/A Fredriksson/J Hultqvist/W Chong@63@42@72
+1162@90342688@JOKKMOKK@Chairs@79.2@Chair@Carina Bengs@47@90@41
+1166@70308685@ODGER@Chairs@395@Swivel chair@J Löfgren/J Pettersson@68@@68
+1167@80349671@TOBIAS@Chairs@345@Chair@Carl Öjerstam@56@82@55
+1168@29272712@TULLSTA@Chairs@545@Armchair@IKEA of Sweden@69@78@79
+1171@40423578@VEDBO@Chairs@975@Armchair@Francis Cayouette@65@75@73
+1172@60105829@HARRY@Chairs@199@Chair@IKEA of Sweden@50@96@48
+1173@10407136@IKEA PS LÖMSK@Chairs@345@Swivel armchair@Monika Mulder@62@75@59
+1174@59337670@LOBERGET / SIBBEN@Chairs@95@Children's desk chair@593.376.70 Height adjustable children's desk chair which you can swivel to the desired height.You sit comfortably since the chair is adjustable in height.May be completed with KOLON floor protector.This product has been tested for domestic use.Recommended for ages 7 – 12 years.@56@@56
+1176@90116553@POÄNG@Chairs@179@Children's armchair@Noboru Nakamura@60@68@47
+1182@29151296@SÖDERHAMN@Chairs@1100@Chaise longue@Ola Wihlborg@151@83@93
+1183@10334753@MACKAPÄR@Chairs@295@Bench with storage compartments, 100x51 cm@Eva Lilja Löwenhielm@35@51@100
+1184@19304006@NILSOVE / NORNA@Chairs@424@Chair with chair pad@A Fredriksson/J Hultqvist/W Chong@57@82@57
+1185@40419982@ALEFJÄLL@Chairs@1295@Office chair@404.199.82 The leather ages beautifully and acquires a nice patina over time.10 year guarantee. Read about the terms in the guarantee brochure.The safety castors have a pressure-sensitive brake mechanism that keeps the chair in place when you stand up, and releases automatically when you sit down.Seat and backrest are adjustable in height and give you maximum support regardless of your body height.You get good support for your thighs and back since the seat depth is adjustable.You can lean back with perfect balance, as the tilt tension mechanism automatically adjusts the resistance to suit your weight and movements. This chair has been tested for office use and meets the requirements for durability and stability set forth in the following standards: EN 1335 and ANSI/BIFMA x5.1.@64@@64
+1186@79129081@EKTORP@Chairs@675@Armchair@IKEA of Sweden@88@88@104
+1188@211088@STEFAN@Chairs@85@Chair@IKEA of Sweden@49@90@42
+1191@30115066@NISSE@Chairs@49@Folding chair@301.150.66 You sit comfortably thanks to the chair's shaped back and seat.You can hang the chair on a hook on the wall to save space.You can fold the chair, so it takes less space when you're not using it.The chair is available in different colours – choose your favourite or mix.This chair has been tested for home use and meets the requirements for durability and safety, set forth in the following standards: EN 12520 and EN 1022.@47@76@45
+1193@30449748@ANTILOP@Chairs@16@Supporting cushion@S Edholm/L Ullenius@@@
+1194@262879@EKERÖ@Chairs@695@Armchair@Eva Lilja Löwenhielm@73@75@70
+1195@49252119@HATTEFJÄLL@Chairs@1295@Office chair with armrests@Monika Mulder@68@110@68
+1196@90211531@BÖRJE@Chairs@175@Chair@IKEA of Sweden@55@100@44
+1197@40240989@DAGOTTO@Chairs@69@Foot-rest@402.409.89 This foot-rest helps you sit in a good working position at your desk and reduces strain on your legs, back and neck.It’s easy to tilt and adjust the platform to a comfortable angle just by applying pressure with your foot.Your feet stay in place when the platform is tilted because it has a non-slip textured surface.Rubber feet underneath keep the foot-rest firmly in place on the floor and protect sensitive surfaces.@@15@38
+1198@99275627@JÄRVFJÄLLET@Chairs@945@Office chair with armrests@Eva Lilja Löwenhielm@68@@68
+1200@50295472@RÅDVIKEN@Chairs@675@Armchair@Andreas Fredriksson@73@82@79
+1203@9219527@MARTIN@Chairs@99@Chair@IKEA of Sweden@52@86@49
+1205@39306288@LERHAMN@Chairs@589@Table and 2 chairs, 74x74 cm@Nike Karlsson@@75@74
+1208@10413137@BALTSAR@Chairs@595@Chair@Carl Öjerstam@56@85@58
+1209@30141975@BERTIL@Chairs@19@Chair pad@IKEA of Sweden@@@
+1211@90434310@ULRIKSBERG@Chairs@445@Armchair@A Fredriksson/J Hultqvist/W Chong@74@76@67
+1212@60248418@FÖRSIKTIG@Chairs@15@Children's stool@K Hagberg/M Hagberg@24@13@37
+1213@90175000@JUSTINA@Chairs@19@Chair pad, 35/42x40x4.0 cm@IKEA of Sweden@40@@
+1216@99221743@KOARP@Chairs@825@Armchair@Ehlén Johansson@78@75@83
+1217@20382324@MAMMUT@Chairs@29@Children's stool@M Kjelstrup/A Östgaard@@@35
+1218@79010690@TÄRENDÖ / ADDE@Chairs@285@Table and 4 chairs, 110 cm@K Hagberg/M Hagberg/Marcus Arvonen@@74@67
+1220@90309721@NILSERIK@Chairs@195@Standing support@IKEA of Sweden@@@41
+1222@40238712@LILLHÖJDEN@Chairs@395@Swivel chair@IKEA of Sweden@70@@70
+1226@39207716@JULES@Chairs@255@Children's desk chair@Nicholai Wiig Hansen@56@@58
+1230@410101@VIPPÄRT@Chairs@29@Chair cushion, 38x38x6.5 cm@IKEA of Sweden@38@@38
+1232@40319398@BENARP@Chairs@1495@Armchair@403.193.98 The high back gives good support for your neck and head.@83@106@92
+1237@20426276@SKOGSTORP@Chairs@795@Bench, 132 cm@204.262.76 Solid oak is a hardwearing natural material which gives a warm, natural feeling.Wood is a natural living material, and variations in the grain, colour and texture makes each piece of wood furniture unique.Each piece of furniture is unique as it is handmade.For maximum quality, re-tighten the screws when necessary.@36@45@132
+1238@80396422@FJÄLLBERGET@Chairs@995@Conference chair@H Preutz/N Karlsson@67@@67
+1241@10424353@VIMUND@Chairs@299@Children's desk chair@IKEA of Sweden@59@@62
+1245@80222441@TERJE@Chairs@79@Folding chair@Lars Norinder@51@77@44
+1247@30346986@LANGUR@Chairs@50@Padded seat cover for highchair@Chenyi Ke@21@40@22
+1249@418376@LIDKULLEN@Chairs@350@Active sit/stand support@E Thomasson/P Süssmann@@@60
+1252@39296901@MELLTORP / TEODORES@Chairs@289@Table and 2 chairs, 75x75 cm@David Wahl/Lisa Norinder@@@75
+1254@60416572@SUNNEA@Chairs@22@Chair pad, 36x2.5 cm@IKEA of Sweden@@@
+1256@276664@EKENÄS@Chairs@995@Armchair@Ola Wihlborg@78@90@86
+1260@60265163@BOLMEN@Chairs@22@Step stool@K Hagberg/M Hagberg@35@@44
+1264@50312909@BUSSAN@Chairs@525@Beanbag, in/outdoor@Anna Efverlund@@@67
+1267@39251931@HAVSTEN@Chairs@1075@Easy chair, in/outdoor, 83x94x90 cm@Andreas Fredriksson@94@90@83
+1270@29297294@MELLTORP / NILSOVE@Chairs@889@Table and 2 chairs, 75x75 cm@Lisa Norinder/A Fredriksson/J Hultqvist/W Chong@@@75
+1280@30427341@SVENARNE@Chairs@795@Chair with armrests@K Hagberg/M Hagberg@69@99@59
+1286@29917307@INGATORP / INGOLF@Chairs@1725@Table and 4 chairs, 155 cm@Carina Bengs@@74@87
+1288@50357785@UTTER@Chairs@25@Children's stool@K Hagberg/M Hagberg@@@
+1289@99011764@MELLTORP / MARIUS@Chairs@149@Table and 2 stools, 75 cm@Ola Wihlborg/Lisa Norinder@@72@75
+1292@30204798@DJUPVIK@Chairs@100@Cushion, 54x54 cm@IKEA of Sweden@@@54
+1293@40416587@HILLARED@Chairs@35@Chair pad, 36x36x3.0 cm@IKEA of Sweden@36@@36
+1295@395209@ODDBJÖRG@Chairs@28@Chair pad, 35 cm@IKEA of Sweden@@@
+1302@19305044@MÖRBYLÅNGA / ODGER@Chairs@3475@Table and 4 chairs, 140x85 cm@J Löfgren/J Pettersson/S Lanneskog/J Marnell@@74@85
+1303@80403516@KARLHUGO@Chairs@595@Chair@Mikael Warnhammar@58@89@49
+1306@90412450@ELSEBET@Chairs@39@Chair pad, 43x42x4.0 cm@IKEA of Sweden@42@@43
+1307@20416593@HERDIS@Chairs@19@Chair pad, 37x37x1.8 cm@IKEA of Sweden@37@@37
+1311@447680@NORDKISA@Chairs@345@Bench, 80 cm@L Hilland/J Karlsson@47@53@
+1319@10421665@NORDMELA@Chairs@636@Chest of 4 drawers, 159x50 cm@Ola Wihlborg@44@50@159
+1320@10150094@CILLA@Chairs@22@Chair pad, 34 cm@IKEA of Sweden@@@
+1322@40466389@GISTAD@Chairs@945@Recliner@IKEA of Sweden@84@96@66
+1326@89297286@MÖRBYLÅNGA / BALTSAR@Chairs@6065@Table and 6 chairs, 220x100 cm@Carl Öjerstam/S Lanneskog/J Marnell@@@100
+1327@49031774@LANDSKRONA@Chairs@1995@Armchair@Tord Björklund/IKEA of Sweden@89@78@89
+1334@90471581@KORNSJÖ@Chairs@375@Storage bench@Ebba Strandmark@47@51@70
+1338@410083@STRÅFLY@Chairs@15@Chair pad, 36 cm@IKEA of Sweden@@@
+1339@10411421@TRANARÖ@Chairs@95@Stool/side table, in/outdoor, 56x41x43 cm@Ola Wihlborg@41@43@56
+1340@39280698@MELLTORP / NISSE@Chairs@197@Table and 2 folding chairs, 75 cm@Lisa Norinder@@72@75
+1342@59221165@GAMLARED / STEFAN@Chairs@565@Table and 2 chairs, 85 cm@Mikael Axelsson/IKEA of Sweden@@@
+1343@70253541@AGAM@Chairs@195@Junior chair@IKEA of Sweden@43@79@41
+1344@90299029@MUREN@Chairs@1395@Recliner@IKEA of Sweden@94@97@85
+1348@29161484@LISABO / LEIFARNE@Chairs@1675@Table and 4 chairs, 140x78 cm@K Hagberg/M Hagberg/Mia Lagerman@@74@78
+1350@49007217@GAMLEBY@Chairs@2475@Table and 4 chairs, 67 cm@IKEA of Sweden/Nike Karlsson@@74@78
+1351@49221439@EKEDALEN / HENRIKSDAL@Chairs@2765@Table and 6 chairs, 180/240 cm@Ehlén Johansson/IKEA of Sweden@@@
+1352@69161482@IKEA PS 2012 / JANINGE@Chairs@1795@Table and 4 chairs, 138 cm@Jon Karlsson/John/Jonas/Petrus/Paul/Caroline@@74@80
+1353@19277036@MÖCKELBY / FANBYN@Chairs@4145@Table and 6 chairs, 235x100 cm@Marcus Arvonen@@74@100
+1356@10461010@BORTBERG@Chairs@49@Lumbar cushion, 31x23 cm@104.610.10 The lumbar cushion helps you to sit up straight, which relieves both the spine and lower back.You easily attach the lumbar cushion to your favourite chair with the sewn-on touch-and-close fastening.Fixed cover.@@@23
+1358@89010699@TÄRENDÖ / GUNDE@Chairs@245@Table and 4 chairs, 110 cm@K Hagberg/M Hagberg@@74@67
+1362@20013073@NORNA@Chairs@29@Chair pad@200.130.73 The cushion can be turned over and therefore has two sides for even wear.Suitable for AGEN chair.@41@@42
+1367@79221169@GAMLARED / LERHAMN@Chairs@685@Table and 2 chairs, 85 cm@Nike Karlsson/Mikael Axelsson@@@
+1369@89221475@IKEA PS 2012 / TEODORES@Chairs@1085@Table and 2 chairs@Jon Karlsson/David Wahl@@@
+1374@90339902@BRORINGE@Chairs@95@Underframe@Mia Lagerman@50@45@52
+1375@90200269@NOMINELL@Chairs@125@Pair of armrests@Olle Lundberg@28@29@23
+1377@69297292@YPPERLIG / NILSOVE@Chairs@2575@Table and 4 chairs, 200x90 cm@HAY/A Fredriksson/J Hultqvist/W Chong@@@90
+1378@9259702@LISABO / ODGER@Chairs@1875@Table and 4 chairs, 140x78 cm@K Hagberg/M Hagberg/J Löfgren/J Pettersson@@74@78
+1381@29280689@EKEDALEN / BERNHARD@Chairs@5465@Table and 6 chairs, 180/240 cm@Ehlén Johansson/Ola Wihlborg@@@
+1385@79161575@ÖVRARYD / JANINGE@Chairs@1535@Table and 4 chairs, 150 cm@David Wahl/John/Jonas/Petrus/Paul/Caroline@@@78
+1386@44881100@KOLON@Chairs@150@Floor protector, 120x100 cm@IKEA of Sweden@@@120
+1389@40273593@FLISAT@Chairs@89@Children's stool, 24x24x28 cm@S Fager/J Karlsson@24@@24
+1392@90246291@INGATORP@Chairs@445@Chair with armrests@Ebba Strandmark@63@99@57
+1395@40332074@MÄSTERBY@Chairs@145@Step stool@Chris Martin@40@50@43
+1400@89304791@LANEBERG / EKEDALEN@Chairs@1595@Table and 4 chairs, 130/190x80 cm@Ehlén Johansson/K Hagberg/M Hagberg@@@80
+1402@89907452@STOLJAN@Chairs@220@Conference chair@Henrik Preutz@51@81@45
+1403@19285866@NORDEN / RÅSKOG@Chairs@1067@Table and 2 stools, 89/152 cm@Nike Karlsson@@@
+1407@19246144@SKOGSTA / NORRARYD@Chairs@3555@Table and 6 chairs, 235x100 cm@Marcus Arvonen/Nike Karlsson@@74@100
+1413@80379347@TROLLBERGET@Chairs@495@Active sit/stand support@P Süssmann/J Karlsson@@80@66
+1417@9161569@INGATORP / HENRIKSDAL@Chairs@2625@Table and 4 chairs, 110 cm@IKEA of Sweden/Carina Bengs@@74@
+1419@9251824@MÖRBYLÅNGA / VOLFGANG@Chairs@4745@Table and 6 chairs, 220x100 cm@IKEA of Sweden/S Lanneskog/J Marnell@@74@100
+1420@19250697@LISABO / SVENBERTIL@Chairs@1675@Table and 4 chairs, 140x78 cm@Mia Lagerman/K Hagberg/M Hagberg@@74@78
+1422@39161488@MELLTORP / JANINGE@Chairs@919@Table and 4 chairs, 125 cm@John/Jonas/Petrus/Paul/Caroline/Lisa Norinder@@72@75
+1426@59131626@MÖRBYLÅNGA / BERNHARD@Chairs@6965@Table and 6 chairs, 220x100 cm@Ola Wihlborg/S Lanneskog/J Marnell@@74@100
+1427@59161562@TORSBY / BERNHARD@Chairs@3875@Table and 4 chairs, 135 cm@Carl Öjerstam/Ola Wihlborg/IKEA of Sweden@@@
+1429@69161203@RYDEBÄCK/BACKARYD / JANINGE@Chairs@1215@Table and 4 chairs, 150 cm@IKEA of Sweden/John/Jonas/Petrus/Paul/Caroline/David Wahl@@75@78
+1431@79305512@KIVIK@Chairs@1300@Chaise longue@Ola Wihlborg@163@83@90
+1433@99251853@TORSBY / VOLFGANG@Chairs@2395@Table and 4 chairs@IKEA of Sweden/Carl Öjerstam@@73@85
+1435@99305158@NORDVIKEN / RÖNNINGE@Chairs@2875@Table and 4 chairs, 152/223x95 cm@Francis Cayouette/Maja Ganszyniec@@@95
+1436@80419070@FUSION@Chairs@1196@Table and 4 chairs@804.190.70 The shape of the chair backs are adapted to fit the corners of the table, so you save space when the chairs are pushed up against the table.Table (length 84 cm, width 84 cm, height 75 cm). Chair (width 61 cm, depth 53 cm, height 76 cm, seat height 46 cm, seat width 55 cm, seat depth 39 cm).@@@
+1441@79912760@NORBERG / NISSE@Chairs@324@Table and 1 chair, 74 cm@Lisa Norinder/Marcus Arvonen@60@@74
+1442@80371520@TROGEN@Chairs@89@Children's step stool, 40x38x33 cm@J Asshoff/H Brogård@38@33@40
+1459@29125410@NORSBORG@Chairs@1740@Chaise longue@Ehlén Johansson@157@85@110
+1465@39221190@TINGBY / LEIFARNE@Chairs@2165@Table and 6 chairs, 180 cm@Mia Lagerman/Mikael Warnhammar@@@
+1466@39297118@LISABO / RÖNNINGE@Chairs@2075@Table and 4 chairs, 140x78 cm@Maja Ganszyniec/K Hagberg/M Hagberg@@@78
+1467@49191705@FÄRLÖV@Chairs@1196@Armchair@Francis Cayouette@101@88@93
+1468@79161561@TORSBY / LEIFARNE@Chairs@1675@Table and 4 chairs, 135 cm@IKEA of Sweden/Carl Öjerstam/Mia Lagerman@@73@85
+1470@79288032@MÖRBYLÅNGA / TOSSBERG@Chairs@5465@Table and 6 armchairs, 220x100 cm@S Lanneskog/J Marnell/IKEA of Sweden@@@100
+1471@89221319@EKEDALEN / TOBIAS@Chairs@3065@Table and 6 chairs, 180/240 cm@Carl Öjerstam/Ehlén Johansson@@@
+1473@89304786@LANEBERG / KARLJAN@Chairs@1195@Table and 4 chairs, 130/190x80 cm@Francis Cayouette/K Hagberg/M Hagberg@@@80
+1483@10471085@GRUVBYN@Chairs@545@Chair@104.710.85 The chair legs are made of solid wood, which is a durable natural material.You sit comfortably thanks to the high back and seat with polyester wadding.For increased stability, re-tighten the screws about two weeks after assembly and when necessary.This chair has been tested for home use and meets the requirements for durability and safety, set forth in the following standards: EN 12520 and EN 1022.@59@107@51
+1484@19131652@MÖRBYLÅNGA / LEIFARNE@Chairs@3665@Table and 6 chairs, 220x100 cm@S Lanneskog/J Marnell/Mia Lagerman@@74@100
+1486@19240750@INGATORP / INGATORP@Chairs@2725@Table and 4 chairs, 155 cm@Ebba Strandmark/Carina Bengs@@74@87
+1488@19252173@VANGSTA / TEODORES@Chairs@845@Table and 4 chairs, 120/180 cm@IKEA of Sweden/David Wahl@@@
+1492@39297255@NORRÅKER / RÖNNINGE@Chairs@1085@Table and 2 chairs, 74x74 cm@J Karlsson/N Karlsson/Maja Ganszyniec@@@74
+1494@50165079@BLÅMES@Chairs@375@Highchair with tray@Tina Christensen@53@93@52
+1503@70465538@VOLFGANG@Chairs@175@Stool@704.655.38 You sit comfortably thanks to the restful flexibility of the seat.You sit comfortably thanks to the padded seat.Velvet.The velvet reflects light in a characteristic way which may make the colour appear as if it changes.@43@85@53
+1506@89161565@VÄSTANBY/VÄSTANÅ / BERNHARD@Chairs@4295@Table and 4 chairs, 170 cm@Chris Martin/Ola Wihlborg/IKEA of Sweden@@75@78
+1514@165213@URBAN@Chairs@225@Junior chair@Carl Öjerstam@48@79@45
+1525@50185303@NORRNÄS@Chairs@325@Chair@Mikael Warnhammar@53@95@42
+1530@50348668@YPPERLIG@Chairs@195@Children's bench, 65x35 cm@HAY@@56@35
+1538@69221297@EKEDALEN / ODGER@Chairs@1975@Table and 4 chairs, 120/180 cm@Ehlén Johansson/J Löfgren/J Pettersson@@@
+1540@80308675@BALSBERGET@Chairs@210@Chair frame, swivel@803.086.75 This product has been developed and tested for domestic use.To be completed with LEIFARNE or SVENBERTIL seat shell.@69@38@69
+1542@287974@ERNFRID@Chairs@145@Underframe@Mia Lagerman@51@46@48
+1547@19130501@SLÄHULT/DALSHULT / LEIFARNE@Chairs@1975@Table and 4 chairs, 185 cm@Mia Lagerman/IKEA of Sweden/Wiebke Braasch@@73@90
+1548@19285927@INGATORP / SAKARIAS@Chairs@4025@Table and 4 chairs, 110/155 cm@Carina Bengs/IKEA of Sweden/E Strandmark@@@
+1561@39305161@NORDVIKEN / HENRIKSDAL@Chairs@2675@Table and 4 chairs, 152/223x95 cm@Francis Cayouette/IKEA of Sweden@@@95
+1562@39305180@NORDVIKEN / LEIFARNE@Chairs@2275@Table and 4 chairs, 152/223x95 cm@Francis Cayouette/Mia Lagerman@@@95
+1563@39307706@VEDBO / VEDBO@Chairs@5865@Table and 6 chairs, 240x105 cm@Francis Cayouette@@@105
+1564@49103247@LISABO / JANINGE@Chairs@1595@Table and 4 chairs, 140x78 cm@K Hagberg/M Hagberg/John/Jonas/Petrus/Paul/Caroline@@74@78
+1565@49221298@EKEDALEN / LEIFARNE@Chairs@1575@Table and 4 chairs, 120/180 cm@Mia Lagerman/Ehlén Johansson@@@
+1569@49297293@TINGBY / NILSOVE@Chairs@2575@Table and 4 chairs, 180x90 cm@Mikael Warnhammar/A Fredriksson/J Hultqvist/W Chong@@@90
+1571@50393000@DIETMAR@Chairs@175@Underframe for chair with armrests@Mia Lagerman@50@65@53
+1572@59161492@MÖCKELBY / NORRARYD@Chairs@4055@Table and 6 chairs, 235x100 cm@Marcus Arvonen/Nike Karlsson@@74@100
+1573@59277015@MÖCKELBY / HENRIKSDAL@Chairs@4265@Table and 6 chairs, 235x100 cm@IKEA of Sweden/Marcus Arvonen@@74@100
+1577@69130612@VÄSTANBY/VÄSTANÅ / LEIFARNE@Chairs@2095@Table and 4 chairs, 170 cm@Mia Lagerman/IKEA of Sweden/Chris Martin@@75@78
+1586@69305174@NORDVIKEN / NORRARYD@Chairs@2535@Table and 4 chairs, 152/223x95 cm@Francis Cayouette/Nike Karlsson@@@95
+1589@79277019@MÖCKELBY / ODGER@Chairs@4265@Table and 6 chairs, 235x100 cm@J Löfgren/J Pettersson/Marcus Arvonen@@74@100
+1600@99304795@LANEBERG / SVENBERTIL@Chairs@1475@Table and 4 chairs, 130/190x80 cm@K Hagberg/M Hagberg/Mia Lagerman@@@80
+1604@20341970@HELMER@Chests of drawers & drawer units@175@Drawer unit on castors, 28x69 cm@IKEA of Sweden@44@69@28
+1606@30326177@LENNART@Chests of drawers & drawer units@49@Drawer unit@Jon Karlsson@34@56@30
+1608@75305709@RAST@Chests of drawers & drawer units@139@Chest of 3 drawers, 62x70 cm@IKEA of Sweden@30@70@62
+1611@10385950@KOPPANG@Chests of drawers & drawer units@395@Chest of 3 drawers, 90x83 cm@K Hagberg/M Hagberg@46@83@90
+1614@60322130@KULLEN@Chests of drawers & drawer units@89@Chest of 2 drawers, 35x49 cm@IKEA of Sweden@40@49@35
+1618@50192822@ALEX@Chests of drawers & drawer units@550@Drawer unit with 9 drawers, 36x116 cm@Johanna Asshoff@48@116@36
+1619@451498@NIKKEBY@Chests of drawers & drawer units@345@Chest of 4 drawers, 84x70 cm@L Hilland/J Karlsson@49@70@84
+1622@50293722@LOTE@Chests of drawers & drawer units@115@Chest of 3 drawers, 55x62 cm@David Wahl@36@62@55
+1642@80347163@VISTHUS@Chests of drawers & drawer units@845@Chest of 8 drawers, 122x96 cm@T Winkel/T Jacobsen@49@96@122
+1644@90213078@MICKE@Chests of drawers & drawer units@245@Drawer unit on castors, 35x75 cm@Henrik Preutz@50@75@35
+1651@20252266@SUMMERA@Chests of drawers & drawer units@49@Drop file@Eva Lilja Löwenhielm@@24@31
+1659@80433486@GODISHUS@Chests of drawers & drawer units@295@Chest of 3 drawers, 60x64 cm@804.334.86 Perfect height for small children. They can easily reach and find things on their own.With the included colourful stickers, you can quickly label the drawers in your own personal way.You can also write with chalk on the sticker to keep track of where you have your things.WARNING! TIPPING HAZARD – Unanchored furniture can tip over. This furniture shall be anchored to the wall with the enclosed safety fitting to prevent it from tipping over.Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately.@40@64@60
+1729@19338054@TROFAST@Children's furniture@245@Storage combination, 44x30x91 cm@Studio Copenhagen@30@91@44
+1731@50178411@LÄTT@Children's furniture@135@Children's table with 2 chairs@IKEA of Sweden@@@
+1736@80342052@CIRKUSTÄLT@Children's furniture@79@Children's tent@IKEA of Sweden@@120@
+1748@60306494@PÅHL@Children's furniture@125@Desk top shelf, 64x60 cm@S Fager/J Jelinek@17@60@64
+1759@10243574@BUSA@Children's furniture@49@Children's tent@Maria Vinka@@76@76
+1766@70228325@RESÖ@Children's furniture@205@Children's picnic table@IKEA of Sweden@@49@89
+1819@90287413@BUNSÖ@Children's furniture@69@Children's easy chair, outdoor@Thomas Sandell@63@49@51
+1858@80226137@VÄDRA@Nursery furniture@95@Babycare mat, 48x74 cm@IKEA of Sweden@@@48
+1863@30199283@ÖNSKLIG@Nursery furniture@59@Stor baskets changing tbl set of 4@Monika Mulder@23@26@27
+1870@20400243@LEN@Nursery furniture@89@Nursing pillow, 60x50x18 cm@IKEA of Sweden@@18@50
+1882@360479@SKÖTSAM@Nursery furniture@25@Cover, 55x83 cm@Annie Huldén@@@83
+1948@69898415@TÄRNÖ@Outdoor furniture@199@Table+2 chairs, outdoor@IKEA of Sweden@@@
+1949@49048425@GÅRÖ / FREDÖN@Outdoor furniture@564@Hammock with stand@IKEA of Sweden@@129@119
+1950@19217863@FALHOLMEN@Outdoor furniture@1431@Table+4 chairs w armrests, outdoor@IKEA of Sweden/Andreas Fredriksson@@@
+1951@80213446@ÄPPLARÖ@Outdoor furniture@205@Table/stool section, outdoor, 63x63 cm@K Hagberg/M Hagberg@@28@63
+1953@19217518@MASTHOLMEN@Outdoor furniture@984@2-seat conversation set, outdoor@Nike Karlsson@@@
+1955@10411440@TOSTERÖ@Outdoor furniture@175@Storage box, outdoor, 129x44x79 cm@104.114.40 This waterproof storage box protects your outdoor pads and cushions from rain, sun, dirt, dust and pollen and helps you keep them organised when they’re not being used.Protecting your outdoor pads and cushions in a waterproof storage box is a simple and effective way to make them look new and fresh longer.The colour stays fresh for longer as the fabric is fade resistant. Handles make it easy to move.Make sure the cushions are completely dry before storing them away in the storage box.During the off-season, store the box filled with cushions in a cool dry place indoors.The storage box is light in weight, so you may need to fill it to keep it from moving around in the wind.For example, the storage box can be filled with 3 seat cushions and 3 back cushions for outdoor sofas and 4 decorative cushions.For example, the storage box can be filled with 6 seat/back cushions and 6 decorative cushions.For example, the storage box can be filled with 2 seat cushions and 2 back cushions for outdoor sofas, 2 chair cushions for armchairs and 2-4 decorative cushions.@44@79@129
+1957@40332682@BROMMÖ@Outdoor furniture@205@Lounger, outdoor@IKEA of Sweden@92@89@48
+1959@80287362@FREDÖN@Outdoor furniture@225@Hammock@IKEA of Sweden@@@100
+1967@80336466@KROKHOLMEN@Outdoor furniture@175@Coffee table, outdoor@Marcus Arvonen@@44@
+1971@49256867@SOLLERÖN@Outdoor furniture@4783@4-seat conversation set, outdoor@Jonas Hultqvist/IKEA of Sweden/Eva Lilja Löwenhielm@@@
+1973@59048415@VÄDDÖ@Outdoor furniture@477@Table+4 chairs, outdoor@Henrik Preutz@@@
+1974@30264565@HÅLLÖ@Outdoor furniture@245@Sun lounger pad, 190x60 cm@IKEA of Sweden@@@60
+1975@401941@SJÄLLAND@Outdoor furniture@180@Table top, 67x67 cm@David Wahl@@@67
+1977@39286153@ASKHOLMEN@Outdoor furniture@465@Table+2 chairs, outdoor@IKEA of Sweden@@@
+1979@20411425@STACKHOLMEN@Outdoor furniture@125@Stool, outdoor, 48x35x43 cm@Ola Wihlborg@@43@35
+1991@70234185@SKARPÖ@Outdoor furniture@179@Armchair, outdoor@Magnus Elebäck@81@71@79
+1993@90336550@BENÖ@Outdoor furniture@9@Chair pad, outdoor, 35 cm@Paulin Machado@@@
+2002@40411047@KUDDARNA@Outdoor furniture@45@Back cushion, outdoor, 62x44 cm@IKEA of Sweden@@@62
+2004@50312424@INNAMO@Outdoor furniture@107.4@Chair with armrests, outdoor@IKEA of Sweden@68@93@54
+2009@49898435@LÄCKÖ@Outdoor furniture@493@Table+2 chairs, outdoor@Jon Karlsson@@@
+2016@80251513@GÅRÖ@Outdoor furniture@339@Hammock stand, outdoor@IKEA of Sweden@@129@119
+2018@79258271@KUNGSHOLMEN@Outdoor furniture@2792.8@Modular corner sofa 3-seat, outdoor@Eva Lilja Löwenhielm/IKEA of Sweden/Nike Karlsson@80@90@222
+2020@10255307@FEJAN@Outdoor furniture@59@Chair, outdoor@K Hagberg/M Hagberg@42@89@44
+2022@70391712@FRÖSÖN@Outdoor furniture@39@Cover for back cushion, 62x44 cm@Eva Lilja Löwenhielm@@@62
+2027@10174641@IKEA PS VÅGÖ@Outdoor furniture@139@Easy chair, outdoor@Thomas Sandell@92@71@74
+2029@70418170@PRÄSTHOLM@Outdoor furniture@695@Bench with backrest, outdoor@Ola Wihlborg@52@79@113
+2032@20314698@YTTERÖN@Outdoor furniture@39@Chair cushion, outdoor, 40x40 cm@IKEA of Sweden@40@@40
+2042@70410744@HUSARÖ@Outdoor furniture@245@Side table, outdoor, 49x49 cm@Ola Wihlborg@@73@49
+2050@30411415@SVANÖ@Outdoor furniture@495@Arbor bench, 119x48 cm@Mikael Axelsson@48@179@119
+2052@20312326@TORHOLMEN@Outdoor furniture@785@Sun lounger@Andreas Fredriksson@@47@70
+2063@70424147@BRUSEN@Outdoor furniture@1036@3-seat sofa, outdoor@Ola Wihlborg@64@75@146
+2064@59253123@FRÖSÖN/DUVHOLMEN@Outdoor furniture@150@Seat/back cushion, outdoor, 116x45 cm@IKEA of Sweden/Eva Lilja Löwenhielm@@@45
+2070@20312604@STEGÖN@Outdoor furniture@16.2@Chair cushion, outdoor, 35 cm@Lisel Garsveden@@@
+2079@19183815@SALTHOLMEN@Outdoor furniture@445@Table+2 folding chairs, outdoor@Jon Karlsson@@@
+2097@80391839@DUVHOLMEN@Outdoor furniture@15@Inner cushion for chair cushion, 35 cm@IKEA of Sweden@@@
+2130@50339763@KUNGSÖ@Outdoor furniture@110@Back cushion, outdoor, 62x44 cm@IKEA of Sweden@44@@62
+2166@79166399@VIDGA@Room dividers@220@Room divider for corner@David Wahl@@@
+2168@9157261@ELVARLI@Room dividers@440@1 section, 52x36x222-350 cm@Ehlén Johansson@35@@51
+2180@30409035@LISTERBY@Sideboards, buffets & console tables@495@Console table, 92x38x71 cm@Henrik Preutz@@71@38
+2206@10424621@KNOPPARP@Sofas & armchairs@345@2-seat sofa@104.246.21 KNOPPARP sofa is very durable thanks to the metal construction and strong supporting fabric.Thanks to the innovative construction, we can use less materials and foam when we make KNOPPARP sofa, while the padded cover ensures that the comfort is maintained.A sofa with small, neat dimensions which is easy to furnish with, even when space is limited. This cover is made from KNISA fabric in polyester, which is dope-dyed. It’s a durable material which has a soft feel.The dope-dyeing process reduces consumption of water and dyestuff compared to traditional dyeing techniques.The cover is easy to keep clean as it is removable and can be machine washed.Easy to bring home if you choose to carry it on your own. The packaging is just over one metre in height and weighs 17 kg.10 year guarantee. Read about the terms in the guarantee brochure.This cover’s ability to resist abrasion has been tested to handle 40,000 cycles. 15,000 cycles or more is suitable for furniture used every day at home. Over 30,000 cycles means a good ability to resist abrasion.The cover has a lightfastness level of 5-6 (the ability to resist colour fading) on a scale of 1 to 8. According to industry standards, a lightfastness level of 4 or higher is suitable for home use.@76@70@119
+2207@10469186@ANGERSBY@Sofas & armchairs@745@2-seat sofa@104.691.86 The sofa is packaged in a space-efficient way, making it easy to transport and carry into your home.You can store remote controls and other smaller items in the practical pockets on the sides of the armrests.@84@89@137
+2214@9251777@KLIPPAN@Sofas & armchairs@995@2-seat sofa@IKEA of Sweden@88@66@180
+2215@385314@SANDARED@Sofas & armchairs@245@Pouffe, 45 cm@Synnöve Mork@@33@
+2221@19325457@HÄSSELBY@Sofas & armchairs@1295@3-seat sofa@193.254.57 The cover is easy to keep clean as it is removable and can be machine washed.@81@81@176
+2225@20033919@ALSEDA@Sofas & armchairs@195@Stool@IKEA of Sweden@@18@
+2226@30451067@GAMLARP@Sofas & armchairs@2795@3-seat sofa@304.510.67@90@86@211
+2227@80437489@GRYTTBY@Sofas & armchairs@206.5@Cover 3-seat sofa@David Wahl@@@
+2247@40266682@BOSNÄS@Sofas & armchairs@95@Footstool with storage@IKEA of Sweden@@36@36
+2255@10434309@GAMLEHULT@Sofas & armchairs@325@Footstool with storage@A Fredriksson/J Hultqvist/W Chong@@36@
+2282@80245051@STOCKHOLM@Sofas & armchairs@6680@Three-seat sofa@Niels Gammelgaard@88@80@211
+2297@10382876@KUNGSHAMN@Sofas & armchairs@60@Cover for 1-seat module@Mikael Axelsson@@@
+2298@40344500@STOCKHOLM 2017@Sofas & armchairs@5436@Three-seat sofa@Ola Wihlborg@112@72@228
+2338@340472@DIHULT@Sofas & armchairs@262.5@Pouffe@Gustav Carlberg@@20@116
+2351@50468694@EMTEN@Sofas & armchairs@39@Bath mat, 50x80 cm@IKEA of Sweden@@@50
+2354@40446985@GENEVAD@Sofas & armchairs@2697@2-seat sofa@IKEA of Sweden@108@95@172
+2412@50319859@NOCKEBY@Sofas & armchairs@645@Cover three-seat sofa@Ola Wihlborg@@@
+2501@50255536@RÖDEBY@Sofas & armchairs@69@Armrest tray@502.555.36 Easy to fold up and easy to move.Fits on flat sofa armrest width from 10 cm to 30 cm.@37@@65
+2628@19011777@MELLTORP@Tables & desks@199@Table, 125x75 cm@Lisa Norinder@@74@75
+2629@70466496@LJUV@Tables & desks@245@Coffee table, 60x52 cm@Nada Debs@@28@52
+2632@59133593@LINNMON / ADILS@Tables & desks@270@Corner table, 120x120 cm@Jon Karlsson@@74@120
+2634@50411990@GLADOM@Tables & desks@59@Tray table, 45x53 cm@Chenyi Ke@@53@
+2641@433895@LINDVED@Tables & desks@85@Side table, 50x68 cm@Ehlén Johansson@@68@
+2643@30381183@KNARREVIK@Tables & desks@39@Bedside table, 37x28 cm@IKEA of Sweden@28@45@37
+2646@99000483@TÄRENDÖ@Tables & desks@125@Table, 110x67 cm@K Hagberg/M Hagberg@@74@67
+2648@49047119@LINNMON / ALEX@Tables & desks@460@Table, 120x60 cm@Johanna Asshoff/IKEA of Sweden@@74@60
+2649@50322239@KVISTBRO@Tables & desks@195@Storage table, 61 cm@Francis Cayouette@@42@
+2652@90278277@LILLÅSEN@Tables & desks@625@Desk, 102x49 cm@Mikael Axelsson@32@74@49
+2653@50434307@LUBBAN@Tables & desks@275@Trolley table with storage@A Fredriksson/J Hultqvist/W Chong@@66@50
+2656@59000705@LINNMON / LERBERG@Tables & desks@175@Table, 120x60 cm@IKEA of Sweden@@74@60
+2663@29214213@LINNMON / GODVIN@Tables & desks@185@Table, 120x60 cm@IKEA of Sweden@@74@60
+2665@50351175@GRANBODA@Tables & desks@295@Nest of tables, set of 3@Jonas Hultqvist@@1@3
+2666@50161321@HOL@Tables & desks@395@Storage table, 98x50 cm@IKEA of Sweden@@50@50
+2668@10457999@BERGENES@Tables & desks@9@Holder for mobile phone/tablet@IKEA of Sweden@@@8
+2686@60340389@BURVIK@Tables & desks@129@Side table, 38 cm@Mikael Axelsson@@78@
+2689@40197486@TOFTERYD@Tables & desks@795@Coffee table, 95x95 cm@Tord Björklund@@31@95
+2697@80270125@LÖVBACKEN@Tables & desks@299@Side table, 77x39 cm@IKEA of Sweden@@51@39
+2698@452624@NYBODA@Tables & desks@375@Coffee table w reversible table top, 120x40x40 cm@Ehlén Johansson@@40@40
+2699@90423887@NORDEN@Tables & desks@899@Gateleg table, 26/89/152x80 cm@904.238.87 Small, neat dimensions make the table easy to furnish with, even when space is limited.Table with drop-leaves seats 2-4; makes it possible to adjust the table size according to need.You can store for example cutlery, table napkins and candles in the 6 drawers under the table top.This table has been tested against our strictest standards for stability, durability and safety to withstand everyday use in your home for years.Seats 2-4.Only recommended for indoor use.Combines with other furniture in the NORDEN series.For increased stability, re-tighten the screws about two weeks after assembly and when necessary.@@74@80
+2703@10351441@LUNNARP@Tables & desks@259@Coffee table, 90x55 cm@Johan Kroon@@48@55
+2709@29870932@GERTON / ODDVALD@Tables & desks@545@Table, 155x75 cm@IKEA of Sweden@@73@75
+2717@60261184@MALMSTA@Tables & desks@895@Coffee table, 130x80 cm@Ebba Strandmark@@52@80
+2718@20302596@ISBERGET@Tables & desks@10@Tablet stand, 25x25 cm@Sarah Fager@25@9@25
+2719@89110934@THYGE@Tables & desks@495@Desk, 160x80 cm@IKEA of Sweden@@@80
+2721@99930961@LINNMON / LALLE@Tables & desks@385@Table, 120x60 cm@IKEA of Sweden/Tina Christensen@@73@60
+2727@60136680@VEJMON@Tables & desks@475@Coffee table, 90 cm@Ehlén Johansson@@48@
+2732@40330862@LIERSKOGEN@Tables & desks@225@Bedside table, 42x74 cm@Henrik Preutz@@74@
+2733@40148368@JÄPPLING@Tables & desks@545@Nest of tables, set of 3@401.483.68 Sizes: 44,5x29,5x40 cm, 40x29,5x43 cm and 33,5x29,5x40 cm.@@@
+2736@14630009@INGO@Tables & desks@275@Table, 120x75 cm@Gillis Lundgren@@73@75
+2741@29223830@LINNMON / HILVER@Tables & desks@775@Table, 150x75 cm@IKEA of Sweden/Chenyi Ke/Johanna Asshoff@@85@75
+2742@30415625@GRUNDSUND@Tables & desks@345@Nest of tables, set of 3@304.156.25 Can be used individually or be pushed together to save space.Low weight; easy to move.Sizes: (length x width x height) 27x22x35 cm, 36x26x38 cm, 45x30x40 cm.@@@
+2744@90452587@KRAGSTA@Tables & desks@495@Coffee table, 90 cm@Carina Bengs@@48@
+2747@40304467@MARYD@Tables & desks@345@Tray table, 58x38x58 cm@Carina Bengs@@58@38
+2749@251135@LINNMON@Tables & desks@59@Table top, 100x60 cm@IKEA of Sweden@@@60
+2752@60150176@BRÄDA@Tables & desks@15@Laptop support, 42x31 cm@Sarah Fager@31@9@42
+2757@90217972@ADILS@Tables & desks@15@Leg@902.179.72 Adjustable feet make the table stand steady also on uneven floors.Screws for fixing the legs to the table top are included.Suitable for table tops with a minimum thickness of 25 mm.@@70@
+2759@70340379@GUALÖV@Tables & desks@275@Storage table, 60 cm@Johanna Jelinek@@47@
+2766@10346077@ANVÄNDBAR@Tables & desks@476@Table, 180x98 cm@Mikael Axelsson@@74@98
+2769@70294339@LISABO@Tables & desks@695@Table, 140x78 cm@K Hagberg/M Hagberg@@74@78
+2773@59216668@LINNMON / ODDVALD@Tables & desks@255@Table, 150x75 cm@IKEA of Sweden@@73@75
+2777@70403512@BYLLAN@Tables & desks@69@Laptop support@IKEA of Sweden@38@8@51
+2779@70351481@VIGGJA@Tables & desks@99@Tray stand, 37x50x74 cm@Henrik Preutz@50@74@37
+2783@80130776@LERBERG@Tables & desks@45@Trestle, 70x60 cm@IKEA of Sweden@39@70@60
+2785@50106773@GERTON@Tables & desks@395@Table top, 155x75 cm@IKEA of Sweden@@@75
+2786@19213582@GLASHOLM / ALEX@Tables & desks@965@Table, 148x73 cm@Johanna Asshoff/Jomi Evers@@71@73
+2788@80280676@SVALSTA@Tables & desks@399@Nest of tables, set of 2@IKEA of Sweden@@@
+2791@10415853@SUNDSTA@Tables & desks@345@Nest of tables, set of 3@104.158.53 Can be used individually or be pushed together to save space.Low weight; easy to move.Sizes: (length x width x height) 27x22x35 cm, 36x26x38 cm, 45x30x40 cm.@@@
+2793@90278588@ARKELSTORP@Tables & desks@595@Window table, 80x40x75 cm@Ebba Strandmark@40@75@80
+2800@30345717@FINNVARD@Tables & desks@160@Trestle with shelf, 70x71/93 cm@IKEA of Sweden@70@@46
+2802@40320349@SETSKOG@Tables & desks@159@Bedside table, 45x35 cm@K Hagberg/M Hagberg@35@65@45
+2803@20295925@TINGBY@Tables & desks@199@Side table on castors, 64x64 cm@202.959.25 Separate shelf for magazines, etc. helps you keep your things organised and the table top clear.The castors make it easy to move the table if needed.@@45@64
+2808@69040353@RYDEBÄCK@Tables & desks@495@Table, 150x78 cm@IKEA of Sweden/David Wahl@@75@78
+2816@30371240@GAMLARED@Tables & desks@395@Table, 85 cm@Mikael Axelsson@@75@
+2820@30299485@KNOTTEN@Tables & desks@556@Standing desk@K Hagberg/M Hagberg@48@105@62
+2822@59213938@KLIMPEN / LALLE@Tables & desks@775@Table, 120x60 cm@Tina Christensen@@73@60
+2827@20400276@TRULSTORP@Tables & desks@645@Coffee table, 115x70 cm@204.002.76 One half of the table top can be raised to a more comfortable height for eating or maybe surfing on your laptop.Practical storage space underneath the table top.You can eat comfortably at your coffee table by raising the table top.@@40@70
+2831@80217524@BJURSTA@Tables & desks@225@Wall-mounted drop-leaf table, 90x50 cm@IKEA of Sweden@50@@90
+2834@10118971@ODDVALD@Tables & desks@75@Trestle, 70x70 cm@IKEA of Sweden@70@70@42
+2837@434277@MÖJLIGHET@Tables & desks@15@Headset/tablet stand@Gustav Carlberg@@@
+2838@70334057@IKEA PS 2017@Tables & desks@346.5@Side table on castors, 69x40 cm@Thomas Sandell@@80@40
+2842@19214275@LINNMON / OLOV@Tables & desks@375@Table, 150x75 cm@IKEA of Sweden@@@75
+2844@30264301@OLOV@Tables & desks@50@Leg, adjustable@IKEA of Sweden@@@
+2855@80278287@HILVER@Tables & desks@345@Table top, 140x65 cm@Chenyi Ke@@@65
+2856@50200271@GODVIN@Tables & desks@25@Leg@IKEA of Sweden@3@70@4
+2858@99215695@LINNMON / KRILLE@Tables & desks@405@Table, 150x75 cm@Francis Cayouette/IKEA of Sweden@@74@75
+2868@40237840@LALLE@Tables & desks@75@Leg, 70 cm@Tina Christensen@@70@
+2881@293772@MÖCKELBY@Tables & desks@2495@Table, 235x100 cm@Marcus Arvonen@@74@100
+2890@50219044@FREDDE@Tables & desks@1095@Desk, 185x74x146 cm@David Wahl@74@146@
+2894@80361564@VANGSTA@Tables & desks@545@Extendable table, 120/180x75 cm@IKEA of Sweden@@73@75
+2898@20293766@MÖRBYLÅNGA@Tables & desks@2495@Table, 220x100 cm@S Lanneskog/J Marnell@@74@100
+2900@9320813@SKARSTA@Tables & desks@1000@Desk sit/stand, 120x70 cm@Jon Karlsson@@@70
+2908@79140700@ÖVRARYD@Tables & desks@635@Table, 150x78 cm@David Wahl@@75@78
+2909@90365458@TORSKLINT@Tables & desks@100@Leg, 70 cm@Jomi Evers@@70@
+2917@90388978@VIKHAMMER@Tables & desks@395@Bedside table, 60x39 cm@Marcus Arvonen@39@7@60
+2920@99047145@HILVER / LERBERG@Tables & desks@435@Table, 140x65 cm@Chenyi Ke/IKEA of Sweden@@@65
+2928@9213686@GLASHOLM / ODDVALD@Tables & desks@495@Table, 148x73 cm@IKEA of Sweden/Jomi Evers@@71@73
+2956@49336077@LINNMON / FINNVARD@Tables & desks@495@Table, 150x75 cm@IKEA of Sweden@@@75
+2964@49229925@ÅMLIDEN / KRILLE@Tables & desks@595@Table, 120x60 cm@Francis Cayouette/Jomi Evers@@74@60
+2968@60355446@ALVARET@Tables & desks@95@Leg, 70 cm@Jomi Evers@@70@
+2971@79140696@SLÄHULT@Tables & desks@615@Table, 185x90 cm@IKEA of Sweden/David Wahl@@73@90
+2978@70419264@SKOGSTA@Tables & desks@1995@Dining table, 235x100 cm@Marcus Arvonen@@73@100
+2985@30250257@KRILLE@Tables & desks@75@Leg with castor, 70 cm@Francis Cayouette@@70@
+2991@9229946@ÅMLIDEN / OLOV@Tables & desks@495@Table, 120x60 cm@Jomi Evers/IKEA of Sweden@@@60
+3006@29229931@GERTON / TORSKLINT@Tables & desks@795@Table, 155x75 cm@IKEA of Sweden/Jomi Evers@@73@75
+3018@59222264@LINNMON / ALVARET@Tables & desks@555@Table, 150x75 cm@Jomi Evers/IKEA of Sweden@@74@75
+3038@60447776@LANEBERG@Tables & desks@695@Extendable table, 130/190x80 cm@K Hagberg/M Hagberg@@75@80
+3046@39931845@TORSBY@Tables & desks@895@Table, 135x85 cm@Carl Öjerstam/IKEA of Sweden@@75@85
+3051@59040344@VÄSTANBY@Tables & desks@1315@Table, 170x78 cm@Chris Martin/IKEA of Sweden@@75@78
+3058@20206806@IKEA PS 2012@Tables & desks@895@Drop-leaf table, 74/106/138x80 cm@Jon Karlsson@@74@80
+3059@30353745@GLASHOLM@Tables & desks@345@Table top, 148x73 cm@Jomi Evers@@@73
+3069@70279447@VÄSTANÅ@Tables & desks@595@Underframe@Chris Martin@@70@72
+3084@10365457@ÅMLIDEN@Tables & desks@295@Table top, 120x60 cm@Jomi Evers@@@60
+3120@69229934@LINNMON / TORSKLINT@Tables & desks@459@Table, 100x60 cm@IKEA of Sweden/Jomi Evers@@74@60
+3158@39047148@HILVER / GODVIN@Tables & desks@445@Table, 140x65 cm@IKEA of Sweden/Chenyi Ke@@@65
+3173@9229791@ÅMLIDEN / TORSKLINT@Tables & desks@695@Table, 120x60 cm@Jomi Evers@@74@60
+3196@40247207@DALSHULT@Tables & desks@575@Underframe@Wiebke Braasch@@71@78
+3204@59047147@HILVER / GERTON@Tables & desks@665@Table, 140x65 cm@IKEA of Sweden/Chenyi Ke@@@65
+3207@59229915@ÅMLIDEN / ALVARET@Tables & desks@675@Table, 120x60 cm@Jomi Evers@@74@60
+3221@69325855@KLIMPEN / TORSKLINT@Tables & desks@950@Table, 150x75 cm@Tina Christensen/Jomi Evers@@73@75
+3235@90247139@BACKARYD@Tables & desks@195@Underframe@David Wahl@@71@74
+3240@471222@VESKEN@Trolleys@39@Trolley, 54x18x71 cm@David Wahl@18@71@54
+3242@70243873@HORNAVAN@Trolleys@195@Trolley, 26x48x77 cm@IKEA of Sweden@@77@48
+3243@20399777@NISSAFORS@Trolleys@99@Trolley, 50.5x30x83 cm@Ebba Strandmark@@83@30
+3244@20463056@RÅSHULT@Trolleys@125@Trolley, 38x28 cm@IKEA of Sweden@@65@28
+3246@70303720@SUNNERSTA@Trolleys@125@Trolley, 56x33 cm@Henrik Preutz@@97@33
+3247@60171433@GRUNDTAL@Trolleys@195@Trolley, 48x24x77 cm@K Hagberg/M Hagberg@24@77@48
+3248@20281631@RISATORP@Trolleys@245@Trolley, 57x39x86 cm@Wiebke Braasch@@86@39
+3249@59276228@VADHOLMA@Trolleys@2295@Kitchen island with rack, 126x79x193 cm@Ebba Strandmark@79@90@126
+3250@80035920@FÖRHÖJA@Trolleys@645@Kitchen trolley, 100x43 cm@Nike Karlsson@@90@43
+3251@58487@FLYTTA@Trolleys@537@Kitchen trolley, 98x57 cm@Nicholai Wiig Hansen@@86@57
+3252@40391657@TORNVIKEN@Trolleys@1495@Kitchen island, 126x77 cm@Ebba Strandmark@@90@77
+3255@80334924@KUNGSFORS@Trolleys@695@Kitchen trolley, 60x40 cm@Ehlén Johansson@@90@40
+3258@90399284@RIMFORSA@Trolleys@1995@Work bench, 120x63.5x92 cm@Ehlén Johansson@@92@63
+3264@40201916@STENSTORP@Trolleys@795@Kitchen trolley, 45x43x90 cm@Carina Bengs@@90@43
+3265@90446619@HÖGSMA@Trolleys@49@Chopping board, 42x31 cm@IKEA of Sweden@@@30
+3276@80227797@BYÅS@TV & media furniture@476@TV bench, 160x42x45 cm@Marcus Arvonen@42@45@160
+3286@30285153@LAPPLAND@TV & media furniture@695@TV storage unit, 183x39x147 cm@IKEA of Sweden@39@147@183
+3291@90144730@MOSJÖ@TV & media furniture@175@TV bench, 90x40x38 cm@IKEA of Sweden@40@38@90
+3458@50453758@RAKKESTAD@Wardrobes@345@Wardrobe with 2 doors, 79x176 cm@IKEA of Sweden@55@176@79
+3459@29385672@PAX@Wardrobes@840@Wardrobe combination, 150x58x201 cm@IKEA of Sweden/Ehlén Johansson@58@201@150
+3461@19329304@PAX / FORSAND/VIKEDAL@Wardrobes@1195@Wardrobe combination, 150x60x201 cm@IKEA of Sweden/Ehlén Johansson@60@201@150
+3464@441758@KLEPPSTAD@Wardrobes@449@Wardrobe with 3 doors, 117x176 cm@IKEA of Sweden@55@176@117
+3468@80331973@VUKU@Wardrobes@49@Wardrobe, 74x51x149 cm@J Karlsson/W Chong@51@149@74
+3517@59328897@PAX / BERGSBO@Wardrobes@1835@Wardrobe combination, 200x38x236 cm@Ehlén Johansson/IKEA of Sweden/K Hagberg/M Hagberg@38@236@200
+3538@49324946@PAX / TYSSEDAL@Wardrobes@6065@Wardrobe combination, 250x60x236 cm@Ebba Strandmark/IKEA of Sweden/Ola Wihlborg/Ehlén Johansson@60@236@250
+3567@421915@SUNDLANDET@Wardrobes@716@Open wardrobe, 79x44x187 cm@Ola Wihlborg@44@187@79
+3577@29330571@PAX / MEHAMN@Wardrobes@1725@Wardrobe combination, 150x44x236 cm@IKEA of Sweden/Ehlén Johansson@44@236@150
+3605@69330159@PAX / AULI@Wardrobes@2255@Wardrobe combination, 150x66x236 cm@Ehlén Johansson/IKEA of Sweden@66@236@150
+3607@79331870@PAX / GRIMO/VIKEDAL@Wardrobes@4230@Corner wardrobe, 210/160x236 cm@IKEA of Sweden/Ola Wihlborg/Ehlén Johansson@@236@160
+3608@89329536@PAX / VIKEDAL@Wardrobes@2940@Wardrobe combination, 150x60x236 cm@Ehlén Johansson/IKEA of Sweden@60@236@150
+3632@29324711@PAX / GRIMO@Wardrobes@1765@Wardrobe combination, 100x60x201 cm@Ehlén Johansson/Ola Wihlborg/IKEA of Sweden@60@201@100
+3651@49330749@PAX / HASVIK@Wardrobes@2990@Wardrobe combination, 200x44x236 cm@Ehlén Johansson/IKEA of Sweden@44@236@200
+3652@79330192@PAX / SEKKEN@Wardrobes@2255@Wardrobe combination, 150x66x236 cm@IKEA of Sweden/Ehlén Johansson@66@236@150
+3654@29320911@PAX / VINGROM@Wardrobes@2525@Wardrobe combination, 100x60x236 cm@IKEA of Sweden/Ehlén Johansson@60@236@100
+3662@99330515@PAX / FÄRVIK/AULI@Wardrobes@3155@Wardrobe combination, 200x44x236 cm@IKEA of Sweden/Ehlén Johansson@44@236@200
+3665@39330735@PAX / MEHAMN/SEKKEN@Wardrobes@1980@Wardrobe combination, 150x66x236 cm@IKEA of Sweden/Ehlén Johansson@66@236@150
+3670@89329560@PAX / VINTERBRO@Wardrobes@4390@Wardrobe combination, 200x38x236 cm@Ehlén Johansson/IKEA of Sweden@38@236@200
+3685@59324936@PAX / FORSAND@Wardrobes@2100@Wardrobe combination, 100x60x236 cm@IKEA of Sweden/Ehlén Johansson@60@236@100
+3686@69330475@PAX / HOKKSUND@Wardrobes@3985@Wardrobe combination, 150x66x236 cm@IKEA of Sweden/Ehlén Johansson@66@236@150
+3688@89330653@PAX / MEHAMN/AULI@Wardrobes@2045@Wardrobe combination, 200x66x236 cm@IKEA of Sweden/Ehlén Johansson@66@236@200
